@@ -31,6 +31,24 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 height="30" width="40" />
 </a>
 
+<a href="https://x.com/Purushottam1404" target="_blank">
+<img align="center"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x-alt.svg"
+height="30" width="40" />
+</a>
+
+<a href="https://www.instagram.com/somwanshi_t_s/" target="_blank">
+<img align="center"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram-alt.svg"
+height="30" width="40" />
+</a>
+
+<a href="https://www.facebook.com/purvesh.somwanshi" target="_blank">
+<img align="center"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg"
+height="30" width="40" />
+</a>
+
 <a href="https://github.com/ByteMaster-Purvesh/" target="_blank">
 <img align="center"
 src="https://skillicons.dev/icons?i=github"
