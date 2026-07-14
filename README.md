@@ -33,13 +33,13 @@ height="30" width="40" />
 
 <a href="https://x.com/Purushottam1404" target="_blank">
 <img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x-alt.svg"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg"
 height="30" width="40" />
 </a>
 
 <a href="https://www.instagram.com/somwanshi_t_s/" target="_blank">
 <img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram-alt.svg"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/insta-gram-alt.svg"
 height="30" width="40" />
 </a>
 
