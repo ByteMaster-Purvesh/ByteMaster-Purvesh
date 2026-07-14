@@ -12,7 +12,7 @@ src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-
 
 <h3>💫 About Me</h3>
 
-I'm a **B.Tech Undergraduate Student in CSE undergrad at GGSIPU ** with a strong passion for **software engineering, full-stack development, and data structures & algorithms**.
+I'm a **B.Tech graduate Student in IT undergrad at SPPU ** with a strong passion for **software engineering, full-stack development, and data structures & algorithms**.
 
 - 🎓 Engineering @ **SPPU**
 - 💻 **Full-Stack Developer** with hands-on project experience
