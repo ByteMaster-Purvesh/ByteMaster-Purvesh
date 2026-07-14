@@ -91,7 +91,7 @@ height="30" width="40" />
 
 ## ⚡ Tech I Use
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,php,python,js,ts,net,html,css,scss,tailwind,react,nextjs,nodejs,expressjs,npm,tensorflow,firebase,mongodb,mysql,postgresql,redis,kafka,git,github,docker,linux,aws,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,php,python,js,ts,net,html,css,scss,tailwind,threejs,react,nextjs,nodejs,expressjs,npm,tensorflow,firebase,mongodb,mysql,postgresql,redis,kafka,git,github,vercel,netlify,docker,linux,aws,vscode,postman&theme=dark" />
 </p>
 
 
